@@ -14,7 +14,7 @@ b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
 ### Usecase Diagram:
-![image](https://github.com/Niroshassithanathan/LAB-5-Student-registration-system/assets/121418437/9e2f9488-cc65-4a29-bfcb-3aafe54d985d)
+![WhatsApp Image 2024-04-27 at 22 18 57_83a1d920](https://github.com/Jeecikasrina23013947/LAB-5-Student-registration-system/assets/148515300/212a0363-f7c4-4b6f-b923-9de83e193b7d)
 
 ### Sequence Daigram:
 ![image](https://github.com/Niroshassithanathan/LAB-5-Student-registration-system/assets/121418437/b7fa2ed1-37a4-4fc3-aca8-565eff987f3e)
